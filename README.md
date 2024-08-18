@@ -1,4 +1,4 @@
-# Dissertation - Enhancing Empathy and Accuracy in LLM-Based Mental Health Support: Evaluating LangChain, RAG and  LoRA to Mitigate Hallucinations, Bias, and Insensitivity in Conversational AI.
+# Enhancing Empathy and Accuracy in LLM-Based Mental Health Support: Evaluating LangChain, RAG and  LoRA to Mitigate Hallucinations, Bias, and Insensitivity in Conversational AI.
 
 <h1 align="center">Hi 👋, I'm Taonga</h1>
 <h3 align="center"> Welcome to my Dissertation Research Project.</h3>
