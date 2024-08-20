@@ -12,7 +12,7 @@
 The Jupyter notebook (ipynb file) included in the repository is a report that shows the code workings and outputs of methods and techniques to fulfil the requirements of this research project.
 
 **Documentation Files:**<br/>
-The PDF and CSV files in the repository are documentations from external sources which were used to assist in methods and techniques used in the Jupyter notebook such as; Retrieval Augmented Generation (RAG) used with LangChain to be embed and store text data as seen in the 'docs' folder created and serving as a vectorstore in the repository.
+The PDF and CSV files in the repository are documentations from external sources which were used to assist in methods and techniques used in the Jupyter notebook such as; Retrieval Augmented Generation (RAG) used with LangChain to embed and store text data as seen in the 'docs' folder created and serving as a vectorstore in the repository.
 
 **Image files:**<br/>
 The image (PNG) files in the repository are image files used to put into the Jupyter notebook for explanatory/illustration purposes behind methods and techniques used.
